@@ -17,6 +17,12 @@ export const ItemContainer = styled.div`
     a.remover {
         color: #FF0000;
         margin-top:20px;
+        margin-right: 20px;
+    }
+
+    a.ver-repo {
+        color: #FAFAFA;
+        margin-top:20px;
     }
 
     hr {
